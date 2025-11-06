@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(226, 43, 128)
+}
+
+button{
+Background-color: rgb(102, 0, 255)
+
+}
+
+.button1{
+    border: 5px solid;
+    border-color: rgb(255, 183, 0);
+}
+
+.button2{
+    border: 5px solid;
+    border-color: rgb(0, 255, 217);
+}
